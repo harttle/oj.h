@@ -1,5 +1,8 @@
 .*.swp
 .*.*.swp
 .idea
-data.in
-data.out
+sample.in
+sample.out
+mine.out
+mine.cpp
+

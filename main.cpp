@@ -2,8 +2,8 @@
 using namespace oj;
 
 int main() {
-    //freopen("test.in", "r", stdin);
-    //freopen("test.out", "w", stdout);
+    //freopen("sample.in", "r", stdin);
+    //freopen("mine.out", "w", stdout);
 
     vector<int> v;
     cin >> v;
